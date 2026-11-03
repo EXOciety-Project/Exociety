@@ -1,398 +1,433 @@
 EXO Whitepaper (Whitepaper v1.0)
 
-Project: Exociety (EXO)
-Whitepaper Publication Date: November 1, 2026
-Official Declaration
+  Project: Exociety (EXO)
+  Whitepaper Publication Date: November 1, 2026
+  Official Declaration
 
-This whitepaper has been prepared to explain the operational principles, tokenomics, governance policies, and community standards of the EXO project.
-EXO was not created to promise short-term price appreciation or financial returns.
-EXO aims to establish a sustainable project based on transparency, responsible management, and active communication with the community.
-This whitepaper contains only information that has been formally confirmed at the time of publication.
-Unconfirmed future plans, speculative roadmaps, projected returns, or any content intended to induce investment are not included.
+  This whitepaper has been prepared to explain the operational principles, tokenomics, governance policies, and community standards of the EXO project.
+  EXO was not created to promise short-term price appreciation or financial returns.
+  EXO aims to establish a sustainable project based on transparency, responsible management, and active communication with the community.
+  This whitepaper contains only information that has been formally confirmed at the time of publication.
+  Unconfirmed future plans, speculative roadmaps, projected returns, or any content intended to induce investment are not included.
+
 1. Project Overview
-What is EXO?
 
-EXO is a digital asset built upon a community-driven operational model.
-All project operations are guided by the following principles:
+ What is EXO?
 
-• Transparency
-• Accountability
-• Long-Term Stability
-• Community Communication
-• Gradual Decentralization
+  EXO is a digital asset built upon a community-driven operational model.
+  All project operations are guided by the following principles:
 
-EXO respects the independent judgment of all participants and discourages excessive expectations and irresponsible investment behavior.
-The operating team does not guarantee profits, and all participants are expected to make their own informed decisions.
+  • Transparency
+  • Accountability
+  • Long-Term Stability
+  • Community Communication
+  • Gradual Decentralization
 
-Technical Information
+   EXO respects the independent judgment of all participants and discourages excessive expectations and irresponsible investment behavior.
+   The operating team does not guarantee profits, and all participants are expected to make their own informed decisions.
 
-• Project Name: Exociety
-• Token Name: Exociety
-• Symbol: EXO
-• Network: Polygon
-• Token Standard: ERC-20
-• Decimals: 18
-• Total Initial Supply: 100,000,000,000 EXO
+ Technical Information
 
-Detailed information regarding the token contract and liquidity pool can be found through official channels and the appendix.
+  • Project Name: Exociety
+  • Token Name: Exociety
+  • Symbol: EXO
+  • Network: Polygon
+  • Token Standard: ERC-20
+  • Decimals: 18
+  • Total Initial Supply: 100,000,000,000 EXO
+
+  Detailed information regarding the token contract and liquidity pool can be found through official channels and the appendix.
+
 2. Core Operating Philosophy
 
-EXO operates according to the following principles.
+  EXO operates according to the following principles.
 
-Transparency
+  Transparency
 
-All major policies and token usage records are disclosed to the public whenever possible.
+  All major policies and token usage records are disclosed to the public whenever possible.
 
-Accountability
+  Accountability
 
-The operating team accepts responsibility for decisions related to project management.
+  The operating team accepts responsibility for decisions related to project management.
 
-Long-Term Stability
+  Long-Term Stability
 
-Long-term sustainability and project stability are prioritized over short-term market fluctuations.
+  Long-term sustainability and project stability are prioritized over short-term market fluctuations.
 
-Independent Decision-Making
+  Independent Decision-Making
 
-The operating team does not encourage or influence individual investment decisions.
-Participants are expected to review available information and make their own decisions independently.
+  The operating team does not encourage or influence individual investment decisions.
+  Participants are expected to review available information and make their own decisions independently.
 
-Community-Centric Governance
+  Community-Centric Governance
 
-EXO seeks to operate through community participation rather than unilateral decisions by the operating team.
+  EXO seeks to operate through community participation rather than unilateral decisions by the operating team.
+
 3. Tokenomics
 
-Total Initial Supply
+  Total Initial Supply
 
-100,000,000,000 EXO
-(100 Billion EXO)
+  100,000,000,000 EXO
+  (100 Billion EXO)
 
-Token Deployment Date
+  Token Deployment Date
 
-October 19, 2026, 08:59:42 UTC
+  October 19, 2026, 08:59:42 UTC
 
-Token Allocation
+  Token Allocation
 
-Liquidity Reserve
-• 50 Billion EXO (50%)
-Founder Allocation
-• 10 Billion EXO (10%)
-Defense Reserve
-• 25 Billion EXO (25%)
-Development & Operations Fund
-• 15 Billion EXO (15%)
-Total
-• 100 Billion EXO (100%)
+  Liquidity Reserve
+   • 50 Billion EXO (50%)
+  Founder Allocation
+   • 10 Billion EXO (10%)
+  Defense Reserve
+   • 25 Billion EXO (25%)
+  Development & Operations Fund
+   • 15 Billion EXO (15%)
+  Total
+   • 100 Billion EXO (100%)
 
-All allocations are managed according to their designated purpose.
+  All allocations are managed according to their designated purpose.
+
 4. Liquidity Reserve
 
-Allocation
+  Allocation
 
-50 Billion EXO
+  50 Billion EXO
 
-Current Supply Status
+  Current Supply Status
 
-5 Billion EXO have been supplied as initial liquidity through Uniswap V4.
-Remaining liquidity reserve: 45 Billion EXO.
+  5 Billion EXO have been supplied as initial liquidity through Uniswap V4.
+  Remaining liquidity reserve: 45 Billion EXO.
 
-Operating Principles
+ Operating Principles
 
-The remaining liquidity reserve will not be supplied immediately.
-Additional liquidity may be considered depending on community activity and project growth.
-If additional liquidity is deemed necessary, the operating team will disclose the following information in advance:
+  The remaining liquidity reserve will not be supplied immediately.
+  Additional liquidity may be considered depending on community activity and project growth.
+  If additional liquidity is deemed necessary, the operating team will disclose the following information in advance:
 
-• Purpose of supply
-• Amount of supply
-• Timing of supply
-• Expected impact
+  • Purpose of supply
+  • Amount of supply
+  • Timing of supply
+  • Expected impact
 
-Final approval will be determined through community discussion and voting.
+  Final approval will be determined through community discussion and voting.
 
-Core Principle
+ Use of Liquidity Reserve Tokens
 
-Liquidity additions will be conducted gradually through communication and voting with the community.
-Liquidity supply will not be used as a tool to artificially manipulate market prices.
+ Liquidity reserve tokens may be sold on the market when necessary to acquire POL or other assets required for liquidity provision. Such sales shall be limited exclusively to the purpose of securing additional liquidity. Before any sale takes place, the following information shall be disclosed to the community:
+
+  • Purpose of the sale
+  • Intended sale amount
+  • Planned sale period
+  • Method of sale
+  • Estimated amount of POL to be acquired
+  • Plan for deploying the acquired assets into liquidity pools
+
+  The proposal shall proceed only after community consultation and a community vote.
+  Upon completion of the sale, the actual amount sold, execution details, assets acquired, and liquidity provision records shall be publicly disclosed.
+  Assets acquired through the sale shall be managed in accordance with the publicly disclosed purpose and shall not be diverted to any use unrelated to the approved purpose.
+  The sale of liquidity reserve tokens shall not be conducted for personal profit-taking or short-term market price manipulation.
+  Such sales shall be carried out exclusively to secure liquidity for the EXO ecosystem and to establish a sustainable foundation for its long-term operations.
+
+ Core Principle
+
+  Liquidity additions will be conducted gradually through communication and voting with the community.
+  Liquidity supply will not be used as a tool to artificially manipulate market prices.
+
 5. Founder Allocation
 
-Allocation
+  Allocation
 
-10 Billion EXO
-Founder Allocation Wallet:
-0x3f360a0Cb2713f750F8E8C80900feCc6A841993d
+  10 Billion EXO
+  Founder Allocation Wallet:
+  0x3f360a0Cb2713f750F8E8C80900feCc6A841993d
 
-Initial Operating Principle
+ Initial Operating Principle
 
-Founder allocation tokens are intended to remain unused for two years from the token creation date.
-During this period, the founder voluntarily commits to holding these tokens and not using them for personal gain or discretionary sale or transfer.
-This policy is based on the founder’s publicly declared operating principles and is not enforced through a smart-contract lock mechanism.
+  Founder allocation tokens are intended to remain unused for two years from the token creation date.
+  During this period, the founder voluntarily commits to holding these tokens and not using them for personal gain or discretionary sale or transfer.
+  This policy is based on the founder’s publicly declared operating principles and is not enforced through a smart-contract lock mechanism.
 
 Exceptional Circumstances
 
-Limited use may occur under the following conditions:
+ Limited use may occur under the following conditions:
 
-• A significant threat to project survival
-• Unforeseen market risks
-• Emergency actions required to protect the ecosystem
+  • A significant threat to project survival
+  • Unforeseen market risks
+  • Emergency actions required to protect the ecosystem
 
-After the two-year period, any use of founder allocation tokens will be publicly disclosed, discussed with the community, and executed only with consideration for market stability.
-In such cases, the operating team will provide prior notice to the community and seek to minimize any potential market impact.
+  After the two-year period, any use of founder allocation tokens will be publicly disclosed, discussed with the community, and executed only with consideration for market stability.
+  In such cases, the operating team will provide prior notice to the community and seek to minimize any potential market impact.
 
-Availability Date
+ Availability Date
 
-October 19, 2028, 08:59:42 UTC
+  October 19, 2028, 08:59:42 UTC
 
-Core Principle
+ Core Principle
 
-Founder allocation tokens are not assets intended for short-term profit realization.
-The founder prioritizes the long-term growth and stability of the project.
+  Founder allocation tokens are not assets intended for short-term profit realization.
+  The founder prioritizes the long-term growth and stability of the project.
+
 6. Defense Reserve
 
-Allocation
+ Allocation
 
-25 Billion EXO
-• 5 dedicated wallets
-• 5 Billion EXO allocated to each wallet
+  25 Billion EXO
+  • 5 dedicated wallets
+  • 5 Billion EXO allocated to each wallet
 
-Purpose
+ Purpose
 
-The Defense Reserve serves as an emergency asset dedicated to protecting the EXO ecosystem and maintaining stability.
+  The Defense Reserve serves as an emergency asset dedicated to protecting the EXO ecosystem and maintaining stability.
 
 Prohibited Uses
 
-The Defense Reserve shall not be used for:
+  The Defense Reserve shall not be used for:
 
-• Personal gain of operators
-• Founder compensation
-• Development expenses
-• Operational expenses
-• Marketing expenses
-• Investment recovery
-• General business costs
-• Any use unrelated to ecosystem defense
+  • Personal gain of operators
+  • Founder compensation
+  • Development expenses
+  • Operational expenses
+  • Marketing expenses
+  • Investment recovery
+  • General business costs
+  • Any use unrelated to ecosystem defense
 
-Usage Procedure
+ Usage Procedure
 
-When use of the Defense Reserve becomes necessary, the operating team will disclose:
+  When use of the Defense Reserve becomes necessary, the operating team will disclose:
 
-• Purpose of use
-• Amount used
-• Time of use
-• Expected effect
+  • Purpose of use
+  • Amount used
+  • Time of use
+  • Expected effect
 
-Community discussion and voting will follow before execution.
+  Community discussion and voting will follow before execution.
 
-Emergency Exception
+ Emergency Exception
 
-Execution may precede disclosure in cases such as:
+  Execution may precede disclosure in cases such as:
 
-• Project survival threats
-• Malicious attacks
-• Liquidity crises
-• Abnormal market conditions
-• Other situations requiring immediate action
+  • Project survival threats
+  • Malicious attacks
+  • Liquidity crises
+  • Abnormal market conditions
+  • Other situations requiring immediate action
 
-Following emergency actions, the operating team will disclose:
+ Following emergency actions, the operating team will disclose:
 
-• Purpose of use
-• Amount used
-• Time of use
-• Results achieved
+  • Purpose of use
+  • Amount used
+  • Time of use
+  • Results achieved
 
-Core Declaration
+ Core Declaration
 
-The 25 Billion EXO Defense Reserve exists solely for ecosystem protection.
-Use for any other purpose is strictly prohibited.
+  The 25 Billion EXO Defense Reserve exists solely for ecosystem protection.
+ Use for any other purpose is strictly prohibited.
+
 7. Development & Operations Fund
 
-Allocation
+ Allocation
 
-15 Billion EXO
-• 5 dedicated wallets
-• 3 Billion EXO allocated to each wallet
+  15 Billion EXO
+  • 5 dedicated wallets
+  • 3 Billion EXO allocated to each wallet
 
-Intended Uses
+ Intended Uses
 
-• Platform development
-• System maintenance
-• Server operations
-• Security enhancements
-• Community management
-• Marketing and promotion
-• Partnership development
-• Other activities supporting project growth
+  • Platform development
+  • System maintenance
+  • Server operations
+  • Security enhancements
+  • Community management
+  • Marketing and promotion
+  • Partnership development
+  • Other activities supporting project growth
 
-Disclosure Policy
+ Disclosure Policy
 
-The operating team will disclose:
-• Purpose of use
-• Amount used
-• Date of use
-• Details of expenditure
+  The operating team will disclose:
+  • Purpose of use
+  • Amount used
+  • Date of use
+  • Details of expenditure
 
 Core Principle
 
-The Development & Operations Fund exists to support the project’s growth and sustainability.
-If prior disclosure could jeopardize operational security, execution may occur before disclosure.
-All usage records are intended to be disclosed transparently.
+  The Development & Operations Fund exists to support the project’s growth and sustainability.
+  If prior disclosure could jeopardize operational security, execution may occur before disclosure.
+  All usage records are intended to be disclosed transparently.
+
 8. Governance Policy
 
-This policy establishes the operational principles intended to support transparency, stability, and long-term decentralization within the EXO ecosystem.
-EXO prioritizes transparency and accountability regarding token supply and smart-contract administrative authority.
+  This policy establishes the operational principles intended to support transparency, stability, and long-term decentralization within the EXO ecosystem.
+  EXO prioritizes transparency and accountability regarding token supply and smart-contract administrative authority.
+
 9. Community Voting Policy
 
-Voting Subjects
+ Voting Subjects
 
-The following matters are generally subject to community voting:
+  The following matters are generally subject to community voting:
 
-• Additional minting
-• Token burning
-• Additional liquidity supply
-• Defense Reserve usage
-• Significant tokenomics changes
-• Major policy changes
-• Other matters deemed important by the operating team
+ • Additional minting
+ • Token burning
+ • Additional liquidity supply
+ • Defense Reserve usage
+ • Significant tokenomics changes
+ • Major policy changes
+ • Other matters deemed important by the operating team
 
-Voting Announcement
+ Voting Announcement
 
-The following information will be disclosed before voting:
+  The following information will be disclosed before voting:
 
-• Proposal details
-• Purpose
-• Expected benefits
-• Anticipated impact
-• Voting start date
-• Voting end date
+  • Proposal details
+  • Purpose
+  • Expected benefits
+  • Anticipated impact
+  • Voting start date
+  • Voting end date
 
-Voting Period
+ Voting Period
 
-Voting periods will be determined separately according to the urgency and significance of each proposal.
+  Voting periods will be determined separately according to the urgency and significance of each proposal.
 
-Approval Requirement
+ Approval Requirement
 
-Approval: 50.1% or more of valid votes cast.
-Rejection: Less than 50.1% of valid votes cast.
+  Approval: 50.1% or more of valid votes cast.
+  Rejection: Less than 50.1% of valid votes cast.
 
-Result Disclosure
+ Result Disclosure
 
-The operating team will disclose:
-• Total participants
-• Votes in favor
-• Votes against
-• Abstentions (if applicable)
-• Final approval percentage
-• Approval or rejection outcome
+  The operating team will disclose:
+  • Total participants
+  • Votes in favor
+  • Votes against
+  • Abstentions (if applicable)
+  • Final approval percentage
+  • Approval or rejection outcome
 
-Core Principle
+ Core Principle
 
-The operating team will respect voting results and seek to reflect the will of the community.
+  The operating team will respect voting results and seek to reflect the will of the community.
+
 10. Minting Policy
 
-The EXO smart contract currently contains minting functionality.
-However, the project's default principle is not to conduct additional minting.
-Minting authority is retained solely for circumstances such as:
+  The EXO smart contract currently contains minting functionality.
+  However, the project's default principle is not to conduct additional minting.
+  Minting authority is retained solely for circumstances such as:
 
-• Token migration
-• Chain migration
-• Token swaps
-• Ecosystem restructuring
-• Other special cases approved by the community
+  • Token migration
+  • Chain migration
+  • Token swaps
+  • Ecosystem restructuring
+  • Other special cases approved by the community
 
-No additional minting will occur without community approval.
+  No additional minting will occur without community approval.
+
 11. Burning Policy
 
-The EXO smart contract currently contains burn functionality.
-However, the project's default principle is not to conduct discretionary token burning.
-Any burn proposal will follow the process below:
+  The EXO smart contract currently contains burn functionality.
+  However, the project's default principle is not to conduct discretionary token burning.
+  Any burn proposal will follow the process below:
 
-• Public disclosure of necessity
-• Disclosure of burn amount
-• Disclosure of expected effects
-• Disclosure of implementation schedule
-• Community discussion
-• Community voting
+  • Public disclosure of necessity
+  • Disclosure of burn amount
+  • Disclosure of expected effects
+  • Disclosure of implementation schedule
+  • Community discussion
+  • Community voting
 
-All burn records will be publicly verifiable on-chain.
+  All burn records will be publicly verifiable on-chain.
+
 12. Ownership Policy
 
-EXO currently maintains smart-contract ownership.
+  EXO currently maintains smart-contract ownership.
 
-Ownership represents the minimum administrative authority required for operation, maintenance, and technical stability.
-Ownership is not intended for supply manipulation or market intervention.
-Ownership actions will be disclosed to the community whenever reasonably possible.
+  Ownership represents the minimum administrative authority required for operation, maintenance, and technical stability.
+  Ownership is not intended for supply manipulation or market intervention.
+  Ownership actions will be disclosed to the community whenever reasonably possible.
+
 13. Renounce Ownership Policy
 
-EXO has not renounced ownership at this time.
-The operating team does not intend to maintain ownership permanently.
-Ownership renunciation may be considered after project stabilization and sufficient community discussion.
+  EXO has not renounced ownership at this time.
+  The operating team does not intend to maintain ownership permanently.
+  Ownership renunciation may be considered after project stabilization and sufficient community discussion.
+
 14. Transparency Declaration
 
-✅ No routine minting
-✅ No routine burning
-✅ Advance disclosure of major policies
-✅ Community discussion prioritized
-✅ Voting-based decision making
-✅ Public on-chain records
-✅ Transparent operational disclosures
-✅ Commitment to long-term decentralization
+  ✅ No routine minting
+  ✅ No routine burning
+  ✅ Advance disclosure of major policies
+  ✅ Community discussion prioritized
+  ✅ Voting-based decision making
+  ✅ Public on-chain records
+  ✅ Transparent operational disclosures
+  ✅ Commitment to long-term decentralization
+
 15. Risk Disclosure
 
-EXO does not guarantee price appreciation or financial returns.
-This whitepaper is not intended as investment advice or an offer to invest.
-Cryptocurrency markets are highly volatile and may result in partial or complete loss of capital.
-All investment decisions and participation are undertaken at the sole responsibility of each participant.
+  EXO does not guarantee price appreciation or financial returns.
+  This whitepaper is not intended as investment advice or an offer to invest.
+  Cryptocurrency markets are highly volatile and may result in partial or complete loss of capital.
+  All investment decisions and participation are undertaken at the sole responsibility of each participant.
+
 16. Final Declaration
 
-EXO chooses transparent operations over exaggerated promises.
-EXO does not sell an unrealized future.
-EXO operates according to the policies and principles publicly disclosed today.
-The operating team does not seek to mislead the community with unconfirmed plans and accepts responsibility for all publicly disclosed information.
+  EXO chooses transparent operations over exaggerated promises.
+  EXO does not sell an unrealized future.
+  EXO operates according to the policies and principles publicly disclosed today.
+  The operating team does not seek to mislead the community with unconfirmed plans and accepts responsibility for all publicly disclosed information.
 
-All policies and token usage records can be independently verified through public disclosures and on-chain records.
-EXO does not ask for trust. We believe in providing verifiable information.
-We do not promise the future.
-We disclose our principles today.
-And we act according to those principles.
-Appendix A. Token Allocation & Custody Wallets
+  All policies and token usage records can be independently verified through public disclosures and on-chain records.
+  EXO does not ask for trust. We believe in providing verifiable information.
+  We do not promise the future.
+  We disclose our principles today.
+  And we act according to those principles.
+  Appendix A. Token Allocation & Custody Wallets
 
-Defense Reserve
+ Defense Reserve
 
-Total Allocation: 25 Billion EXO
+ Total Allocation: 25 Billion EXO
 
-Defense Wallet 1
-0xf4AafC52dbA76a5Bb2d95ea69A1Bcf4DBe6037Fd
-Defense Wallet 2
-0xDB783CCD07a9d8FD0844b7E17F31A2d04DF9b905
-Defense Wallet 3
-0x5a055Ce9635c3Be523FE9C5C54aEa2e40d6FE718
-Defense Wallet 4
-0x81635Ea92e177bCe270A988da65099ca960f0B7d
-Defense Wallet 5
-0x24758E4208675b52A0937522B2C75d2F74A4bcDe
-Development & Operations Fund
+  Defense Wallet 1
+  0xf4AafC52dbA76a5Bb2d95ea69A1Bcf4DBe6037Fd
+  Defense Wallet 2
+  0xDB783CCD07a9d8FD0844b7E17F31A2d04DF9b905
+  Defense Wallet 3
+  0x5a055Ce9635c3Be523FE9C5C54aEa2e40d6FE718
+  Defense Wallet 4
+  0x81635Ea92e177bCe270A988da65099ca960f0B7d
+  Defense Wallet 5
+  0x24758E4208675b52A0937522B2C75d2F74A4bcDe
+  Development & Operations Fund
 
-Total Allocation: 15 Billion EXO
+ Total Allocation: 15 Billion EXO
 
-Development & Operations Wallet 1
-0x935Dd623C3EAe935FA994bA3D0dFd65e451863A4
-Development & Operations Wallet 2
-0x757feD7a619F254293C90B485ED02FA830f07841
-Development & Operations Wallet 3
-0x744f04dA2F6F74582d0F1FD0A29239b073c0d8D7
-Development & Operations Wallet 4
-0xBB2d3eb26cFf49B7FfCEA2f6ccad5cfC500cc64A
-Development & Operations Wallet 5
-0xCA8e81ced806A6DaC4B49C3DD51FA8Fbe1f52ea5
-Official Technical Information
+  Development & Operations Wallet 1
+  0x935Dd623C3EAe935FA994bA3D0dFd65e451863A4
+  Development & Operations Wallet 2
+  0x757feD7a619F254293C90B485ED02FA830f07841
+  Development & Operations Wallet 3
+  0x744f04dA2F6F74582d0F1FD0A29239b073c0d8D7
+  Development & Operations Wallet 4
+  0xBB2d3eb26cFf49B7FfCEA2f6ccad5cfC500cc64A
+  Development & Operations Wallet 5
+  0xCA8e81ced806A6DaC4B49C3DD51FA8Fbe1f52ea5
 
-Network: Polygon
-Token Contract Address
-0x5AA60D2C0b625AeB1d13d0cbc2CD79BCDDfA54d3
-PolygonScan
-https://polygonscan.com/token/0x5AA60D2C0b625AeB1d13d0cbc2CD79BCDDfA54d3
-Uniswap V4
-https://app.uniswap.org/explore/tokens/polygon/0x5AA60D2C0b625AeB1d13d0cbc2CD79BCDDfA54d3
-Liquidity Pool
-https://app.uniswap.org/positions/v4/polygon/150505
-Document Version: Whitepaper v1.0
-Project: Exociety (EXO)
-This whitepaper is the official document describing the currently established operating principles and policies of the EXO project.
+ Official Technical Information
+
+  Network: Polygon
+  Token Contract Address
+  0x5AA60D2C0b625AeB1d13d0cbc2CD79BCDDfA54d3
+  PolygonScan
+  https://polygonscan.com/token/0x5AA60D2C0b625AeB1d13d0cbc2CD79BCDDfA54d3
+  Uniswap V4
+  https://app.uniswap.org/explore/tokens/polygon/0x5AA60D2C0b625AeB1d13d0cbc2CD79BCDDfA54d3
+  Liquidity Pool
+  https://app.uniswap.org/positions/v4/polygon/150505
+  Document Version: Whitepaper v1.0
+  Project: Exociety (EXO)
+  This whitepaper is the official document describing the currently established operating principles and policies of the EXO project.
