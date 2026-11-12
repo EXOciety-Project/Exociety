@@ -525,6 +525,10 @@ As a fundamental principle, Exociety does not provide separate transaction tax p
 
 Transaction tax revenue is primarily intended to be used as a funding source for project operations and development.
 
+Transaction taxes shall be managed independently, without requiring separate approval or external intervention. 
+
+However, relevant operational matters shall be publicly disclosed to ensure transparency.
+
 Detailed transaction tax functions and additional application policies will be specified separately in future whitepaper updates.
 
 The actual scope of application and detailed conditions will be based on the smart contract implementation and official public materials.
