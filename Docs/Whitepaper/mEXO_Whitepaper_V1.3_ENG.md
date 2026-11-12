@@ -709,7 +709,7 @@ Contract Address: 0x5AA60D2C0b625AeB1d13d0cbc2CD79BCDDfA54d3
 
 MonadScan: https://monadscan.com/token/0x5AA60D2C0b625AeB1d13d0cbc2CD79BCDDfA54d3
 
-USDC-Based Liquidity Pool: To be disclosed separately after the official pool address has been confirmed.
+USDC-Based Liquidity Pool: https://app.uniswap.org/explore/tokens/monad/0x5AA60D2C0b625AeB1d13d0cbc2CD79BCDDfA54d3
 
 Transaction Tax Receiving Wallet: 0xc51033Db463BF82315422304240E9b814A5415ED
 
