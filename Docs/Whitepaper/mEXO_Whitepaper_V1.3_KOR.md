@@ -710,7 +710,7 @@ USDC 기반 유동성 풀 운영 및 생태계 유동성 확보를 위한 물량
 
 MonadScan: https://monadscan.com/token/0x5AA60D2C0b625AeB1d13d0cbc2CD79BCDDfA54d3
 
-USDC 기반 유동성 풀: 공식 풀 주소 확인 후 별도 공개
+USDC 기반 유동성 풀:(https://app.uniswap.org/explore/tokens/monad/0x5AA60D2C0b625AeB1d13d0cbc2CD79BCDDfA54d3)
 
 거래세 수령 지갑: `0xc51033Db463BF82315422304240E9b814A5415ED`
 
